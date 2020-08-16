@@ -2,10 +2,6 @@
   
 ### eps1.0_hellofriend.mov 
 
-
-<a href="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo"><img alt="Open Images v5 Overview Animation" src="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo" width="800px" /></a>
-
-
 <a href="https://i.skyrock.net/7297/93457297/pics/3282316222_1_3_GYGTUVGa.gif"><img alt="Open Images v5 Overview Animation" src="https://i.skyrock.net/7297/93457297/pics/3282316222_1_3_GYGTUVGa.gif" width="800px" /></a>
 
 
