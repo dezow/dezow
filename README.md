@@ -1,6 +1,6 @@
 <div align="center">
   
-### eps1.0_hellofriend.mov 👋
+### eps1.0_hellofriend.mov 
 
 
 <a href="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo"><img alt="Open Images v5 Overview Animation" src="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo" width="800px" /></a>
