@@ -2,16 +2,17 @@
   
 ### eps1.0_hellofriend.mov 👋
 
-![Alt Text](https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo)
+
+<a href="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo"><img alt="Open Images v5 Overview Animation" src="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo" width="800px" /></a>
 
 </div>
 
 
 <!--
 
-![Adam's github stats](https://github-readme-stats.vercel.app/api?username=dezow&&hide=contribs&count_private=true&show_icons=true&theme=onedark)
+![Alt Text](https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo)
 
-<a href="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo"><img alt="Open Images v5 Overview Animation" src="https://lh3.googleusercontent.com/proxy/9d4qKxJUaHI4FSEfjJgvEYRRGT8KDDqOIPsxQCg8Pu7_QbPmE9aIOr6KP_PXmE_UdPkpODbfhFUru114H2peN1kBnKW35a4UgCIJ6oj4iMo" width="440px" /></a>
+![Adam's github stats](https://github-readme-stats.vercel.app/api?username=dezow&&hide=contribs&count_private=true&show_icons=true&theme=onedark)
 
 [![Adam's top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dezow&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
