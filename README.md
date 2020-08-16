@@ -2,7 +2,7 @@
   
 ### eps1.0_hellofriend.mov 
 
-<a href="https://i.skyrock.net/7297/93457297/pics/3282316222_1_3_GYGTUVGa.gif"><img alt="Open Images v5 Overview Animation" src="https://i.skyrock.net/7297/93457297/pics/3282316222_1_3_GYGTUVGa.gif" width="800px" /></a>
+<a href="https://s7.gifyu.com/images/ezgif-7-70714c82fc29.gif"><img alt="Open Images v5 Overview Animation" src="https://s7.gifyu.com/images/ezgif-7-70714c82fc29.gif" width="800px" /></a>
 
 
 
