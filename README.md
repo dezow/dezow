@@ -5,7 +5,7 @@
 <a href="https://s7.gifyu.com/images/ezgif-7-70714c82fc29.gif"><img alt="Open Images v5 Overview Animation" src="https://s7.gifyu.com/images/ezgif-7-70714c82fc29.gif" width="800px" /></a>
 
 
-
+Mooooost of my projects are now private, contact me.
 </div>
 
 
